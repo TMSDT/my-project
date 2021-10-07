@@ -1,8 +1,11 @@
 from car import Car
 
-car = Car'A'
+car 1 = Car'A'
+car 2 = Car'B'
 Print('Hello')
-print(car.value)
+print(car 1.value)
+print(car 2.value)
+
 
 
 
